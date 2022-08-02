@@ -1,0 +1,4 @@
+[1031/211407.795:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Acceso denegado. (0x5)
+[1108/231140.671:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Acceso denegado. (0x5)
+[1108/231141.077:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1108/231143.277:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
